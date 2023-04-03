@@ -28,5 +28,9 @@
     "sketchdev": "^0.7.4",
     "tslib": "^2.5.0",
     "typescript": "^5.0.2"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
